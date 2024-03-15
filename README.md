@@ -1,7 +1,7 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-### Weblink: [Live Website](https://rishavchanda.netlify.app)
+### Weblink: [Live Website](https://alka-portifolio-lmbd74j6n-alka-ns-projects.vercel.app/)
 ## Some Images:
 <img width="450px;" src="https://github.com/alkababu18/ProjectAssets/blob/main/Screenshot%20(2).png"/>
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
