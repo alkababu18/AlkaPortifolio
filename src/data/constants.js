@@ -160,7 +160,7 @@ export const experiences = [
     role: "Data Analytics Consulting Virtual Internship",
     company: "Neurobit",
     date: "October 19th, 2023",
-    desc: " proficiency in data analysis and visualization, utilizing tools such as Python, R, and SQL to extract insights from complex datasets.",
+    desc: " proficiency in data analysis and visualization, utilizing tools such as Python and SQL to extract insights from complex datasets.",
     skills: [
       "Data Quality Assessment",
       "Data Insights",
