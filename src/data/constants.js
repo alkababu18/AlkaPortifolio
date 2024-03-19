@@ -251,7 +251,7 @@ export const projects = [
     id: 1,
     title: "Mini project sudoku solver",
     date: "Oct 2022 - Present",
-    description:[ "●Developed a Python-based Sudoku solver using Numpy","Problem-solving skills by designing and implementing a Sudoku solver as a personal project"],
+    description:[ "Developed a Python-based Sudoku solver using Numpy","Problem-solving skills by designing and implementing a Sudoku solver as a personal project"],
      
     image:
       "https://d3i71xaburhd42.cloudfront.net/c068a11a00d627f47943d67e23b438cafc5583a0/1-Figure1-1.png",
