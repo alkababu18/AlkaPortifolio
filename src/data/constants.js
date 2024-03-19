@@ -12,10 +12,10 @@ export const Bio = {
   github: "https://github.com/alkababu18",
   resume:
     "https://drive.google.com/file/d/1-ZCyGKvrylELstIqS04SU31YM0k46Aio/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/Alka-N-b89a791b3/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  linkedin: "www.linkedin.com/in/alka-babu-74b647265",
+  twitter: "https://twitter.com/AlkaN",
+  insta: "https://www.instagram.com/AlkaN/",
+  facebook: "https://www.facebook.com/AlkaN/",
 };
 
 export const skills = [
@@ -232,7 +232,7 @@ export const projects = [
     
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
+    github: "https://github.com/Alka/Trackify",
     webapp: "https://trackify.duckdns.org",
   },
   {
@@ -260,7 +260,7 @@ export const projects = [
       "Numpy",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
+    github: "https://github.com/Alka/Project-Management-App",
     webapp: "https://vexa-app.netlify.app/",
   },
   {
@@ -273,7 +273,7 @@ export const projects = [
       "https://www.engagebay.com/blog/wp-content/uploads/2022/05/13.-Sales-KPI.png",
     tags: ["Python", "SQL",],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
+    github: "https://github.com/Alka/Brain-Tumor-Detection",
     webapp: "https://brain-tumor.netlify.app/",
   },
   {
@@ -286,8 +286,8 @@ export const projects = [
       "https://maven-uploads.s3.amazonaws.com/156672652/projects/Screenshot%202023-02-18%20170621.png",
     tags: ["Power BI dashboards"],
     category: "android app",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+    github: "https://github.com/Alka/Buckoid-Android-App",
+    webapp: "https://play.google.com/store/apps/details?id=com.Alka.buckoid",
   },
 ];
 
