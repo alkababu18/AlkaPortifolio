@@ -138,6 +138,25 @@ export const skills = [
 
 export const experiences = [
   {
+    id: 2,
+    img: "https://media.licdn.com/dms/image/D4E03AQHig_VoEcg8Tg/profile-displayphoto-shrink_800_800/0/1687013408946?e=2147483647&v=beta&t=Oc7_y_jH6D5quinMZ3OEknJ-8304syy3DLxPRefJhZg",
+    role: "Avodha Data Science and Artificial Intelligence Certificate",
+    company: "GirlScript Summer of Code",
+    date: "18/03/2024",
+    desc: "I am excited to share my accomplishment of earning the Avodha Data Science and Artificial Intelligence Certificate, showcasing expertise in Python, Pandas, NumPy, SQL, and advanced data visualization techniques. Furthermore, my proficiency extends to utilizing Power BI for insightful data analysis and interactive reporting, solidifying my ability to deliver impactful solutions in the domains of data science and AI",
+    doc: "https://drive.google.com/file/d/1ocWQphIu-V_KdsgXY4NLyddaY8JkgGZx/view?usp=sharing",
+    skills: [
+      "Python",
+      "Power BI",
+      "SQL",
+      "Seaborn",
+      "Streamlit",
+      "Matplotlib",
+      "MongoDB",
+      "Plotly",
+    ],
+  },
+  {
     id: 0,
     img: "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png",
     role: "Google Data Analytics",
@@ -161,13 +180,6 @@ export const experiences = [
     company: "Neurobit",
     date: "October 19th, 2023",
     desc: " proficiency in data analysis and visualization, utilizing tools such as Python and SQL to extract insights from complex datasets.",
-    skills: [
-      "Python",
-      "Power BI",
-      "SQL",
-      "Seaborn",
-      "Streamlit",
-    ],
     doc: "https://drive.google.com/file/d/16DfSS5Qu6seLHEWumzkmv-O6GTAf_KVV/view?usp=sharing",
   },
   {
