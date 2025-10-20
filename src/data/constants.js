@@ -1,17 +1,14 @@
 export const Bio = {
   name: "Alka N",
   roles: [
-    "Data Analyst",
+    "Odoo Developer",
     "Python Developer",
-    "Business Analyst",
-    "Marketing Analyst",
-    "Operations Analyst",
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/alkababu18",
   resume:
-    "https://drive.google.com/file/d/1-ZCyGKvrylELstIqS04SU31YM0k46Aio/view?usp=sharing",
+    "https://drive.google.com/file/d/1LNe3pr-4_lbqhZfll8TtBMWIBo_LYUdP/view?usp=sharing",
   linkedin: "www.linkedin.com/in/alka-babu-74b647265",
   twitter: "https://twitter.com/AlkaN",
   insta: "https://www.instagram.com/AlkaN/",
@@ -20,51 +17,31 @@ export const Bio = {
 
 export const skills = [
   {
-    title: "Data Manipulation",
-    skills: [
-      {
-        name: " Handling missing values",
-        image:
-          "https://icons.iconarchive.com/icons/blackvariant/button-ui-ms-office-2016/512/Excel-2-icon.png",
-      },
-      {
-        name: "Data extraction",
-        image:
-          "https://icons.iconarchive.com/icons/blackvariant/button-ui-ms-office-2016/512/Excel-2-icon.png",
-      },
-      {
-        name: " Transformation",
-        image: "https://icons.iconarchive.com/icons/blackvariant/button-ui-ms-office-2016/512/Excel-2-icon.png",
-      },
-      {
-        name: " Filtering",
-        image: "https://icons.iconarchive.com/icons/blackvariant/button-ui-ms-office-2016/512/Excel-2-icon.png",
-      },
-    ],
+    title: "Odoo Framework",
+   skills: [
+  {
+    name: "Python programming (Odoo's core language)",
+    image: "https://cdn-icons-png.flaticon.com/512/5968/5968350.png",
   },
   {
-    title: "Data Visualization",
-    skills: [
-      {
-        name: "Power BI",
-        image: "https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png",
-      },
-      {
-        name: "Tableau",
-        image: "https://w7.pngwing.com/pngs/674/247/png-transparent-tableau-software-computer-software-data-visualization-nyse-data-business-intelligence-software-software-company-symmetry-cross-thumbnail.png",
-      },
-      {
-        name: "Matplotlib (Python)",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png",
-      },
-      {
-        name: "Streamlit (Python)",
-        image: "https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png",
-      },
-    ],
+    name: "XML (Creating UI for Odoo)",
+    image: "https://cdn-icons-png.flaticon.com/512/136/136525.png",
   },
   {
+    name: "HTML5 and CSS3 for UI customization",
+    image: "https://cdn-icons-png.flaticon.com/512/732/732212.png",
+  },
+  {
+    name: "PostgreSQL database management and SQL queries",
+    image: "https://cdn-icons-png.flaticon.com/512/5968/5968342.png",
+  },
+  {
+    name: "PyCharm IDE (Odoo development environment)",
+    image: "https://lp.jetbrains.com/static/upl/5154/2025/09/01/172017-0.9229018.png",
+  },
+],
+  },
+   {
     title: "Programming",
     skills: [
       {
@@ -75,7 +52,7 @@ export const skills = [
       {
         name: "SQl",
         image:
-          "https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png",
+          "https://icon2.cleanpng.com/20180715/wtu/aav1v5mq4.webp",
       },
       {
         name: "HTML",
@@ -118,11 +95,6 @@ export const skills = [
           "https://cdn.icon-icons.com/icons2/3375/PNG/512/vercel_brand_icon_211876.png",
       },
       {
-        name: "Netlify",
-        image:
-          "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
-      },
-      {
         name: "Streamlit",
         image:
           "https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png",
@@ -134,6 +106,32 @@ export const skills = [
       },
     ],
   },
+  // {
+  //   title: "Data Visualization",
+  //   skills: [
+  //     {
+  //       name: "Power BI",
+  //       image: "https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png",
+  //     },
+  //     {
+  //       name: "Tableau",
+  //       image: "https://w7.pngwing.com/pngs/674/247/png-transparent-tableau-software-computer-software-data-visualization-nyse-data-business-intelligence-software-software-company-symmetry-cross-thumbnail.png",
+  //     },
+  //       {
+  //   name: "Excel (VLookup, Conditional Formatting, Pivot Tables)",
+  //   image: "https://icons.iconarchive.com/icons/blackvariant/button-ui-ms-office-2016/512/Excel-2-icon.png",
+  //   },
+  //     {
+  //       name: "Matplotlib (Python)",
+  //       image:
+  //         "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png",
+  //     },
+  //     {
+  //       name: "Streamlit (Python)",
+  //       image: "https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png",
+  //     },
+  //   ],
+  // },
 ];
 
 export const experiences = [
@@ -225,84 +223,53 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
-    title: "Live Income Data Dashboard with deployment",
-    date: "",
-    description:[
-      "Real-Time Visualization: Utilize Streamlit and Plotly to create an intuitive dashboard interface for users to visualize live income data with interactive charts and graphs.",
-      "Dynamic Data Analysis: Leverage Pandas and NumPy to perform real-time statistical analysis, enabling users to uncover trends, patterns, and anomalies within the income dataset",
-      "Remote Accessibility: Deploy the dashboard for remote access using streamlit",
-    ],
-     
-    image:
-      "https://storage.googleapis.com/coderzcolumn/static/tutorials/data_science/article_image/Basic%20Dashboard%20using%20Streamlit%20and%20Matplotlib.jpg",
-    tags: [
-      "Plotly",
-      "interactive charts and graphs",
-      "Pandas",
-      "NumPy",
-      "streamlit",
-      "Live Deployment",
-    
-    ],
-    category: "web app",
-    github: "https://github.com/Alka/Trackify",
-    webapp: "https://trackify.duckdns.org",
-  },
-  {
-    id: 0,
-    title: "Admission Prediction Using ML",
-    date: "Apr 2023 - May 2023",
-    description:["Conducted exploratory data analysis and visualized insights using Matplotlib and Seaborn, enhancing understanding and model performance","Developed a machine learning model using Python's Linear Regression algorithm to predict admission likelihood.",],
-      
-    image:
-      "https://www.graduhat.com/static/media/graphic1.35242396.png",
-    tags: ["Matplotlib", "Seaborn"],
-    category: "web app",
-    webapp: "https://podstream.netlify.app/",
-  },
-  {
     id: 1,
-    title: "Mini project sudoku solver",
-    date: "Oct 2022 - Present",
-    description:[ "Developed a Python-based Sudoku solver using Numpy","Problem-solving skills by designing and implementing a Sudoku solver as a personal project"],
-     
-    image:
-      "https://d3i71xaburhd42.cloudfront.net/c068a11a00d627f47943d67e23b438cafc5583a0/1-Figure1-1.png",
-    tags: [
-      "Python",
-      "Numpy",
+    title: "Vendor Registration Portal",
+    date: "",
+    description: [
+      "Engineered a custom website module with a multi-step registration form, capturing vendor details through user-friendly web forms with document upload functionality and automated tax ID validation.",
+      "Implemented a secure data management system with role-based access controls, email notifications, and automated approval workflows involving multiple stakeholders (Finance, Procurement, Legal).",
+      "Developed custom Python controllers and QWeb templates for form handling, integrated with PostgreSQL for data storage, and implemented a status tracking dashboard for real-time application monitoring."
     ],
+    image:
+      "https://webkul.com/blog/wp-content/uploads/2020/01/Vendor-1200x590.png",
+    tags: ["Odoo", "Python", "PostgreSQL", "QWeb", "Workflow Automation"],
     category: "web app",
-    github: "https://github.com/Alka/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    github: "",
+    webapp: ""
   },
   {
     id: 2,
-    title: "Customer Sales Analysis",
-    date: "Jan 2023 - Mar 2023",
-    description:["Utilized SQL to extract data from 8 different related tables from customer sales databases using JOIN and VIEW","Transformed and filtered data by using aggregating and filtering function to improve reporting process","Loaded and visualized data with Python to identify key business intelligence that can improve sales performance"],
-      
+    title: "Back From Leave Module Customization",
+    date: "",
+    description: [
+      "Engineered a custom Back From Leave module with a multi-level approval workflow (Team Lead → HR Manager → Department Head).",
+      "Integrated automated email notifications and dynamic form fields for capturing return details and supporting documents.",
+      "Developed a status tracking dashboard for pending approvals and implemented automated leave balance reconciliation, reducing manual processing time by 40% and enhancing compliance tracking through digital approval records."
+    ],
     image:
-      "https://www.engagebay.com/blog/wp-content/uploads/2022/05/13.-Sales-KPI.png",
-    tags: ["Python", "SQL",],
-    category: "machine learning",
-    github: "https://github.com/Alka/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
+      "https://www.images.cybrosys.com/blog/Uploads/BlogImage/leave-management-odoo-v12-2.png",
+    tags: ["Odoo 16", "Python", "Automation", "Email Notifications", "Workflow"],
+    category: "web app",
+    github: "",
+    webapp: ""
   },
   {
     id: 3,
-    title: "Data Professional survey using power BI",
-    date: "Dec 2021 - Apr 2022",
-    description:[ "Demonstrated proficiency in survey creation and data visualization by developing interactive Power BI dashboards.","Presented actionable insights through visually engaging charts and graphs in Power BI,"],
-     
+    title: "Payroll Module Customization",
+    date: "",
+    description: [
+      "Customized the Odoo 16 Payroll module with advanced salary component calculations and configurable allowance/deduction rules.",
+      "Implemented dynamic salary structures handling multiple pay grades, overtime calculations, and tax deductions.",
+      "Engineered a custom PDF generation system using ReportLab for professional salary slip layouts with company branding, including digital signatures, QR codes, and bank transfer details for over 500 employees."
+    ],
     image:
-      "https://maven-uploads.s3.amazonaws.com/156672652/projects/Screenshot%202023-02-18%20170621.png",
-    tags: ["Power BI dashboards"],
-    category: "android app",
-    github: "https://github.com/Alka/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.Alka.buckoid",
-  },
+      "https://www.images.cybrosys.com/blog/Uploads/BlogImage/manage-payroll-in-odoo-13-12.png",
+    tags: ["Odoo 16", "Python", "ReportLab", "PDF Generation", "Payroll System"],
+    category: "web app",
+    github: "",
+    webapp: ""
+  }
 ];
 
 export const TimeLineData = [
