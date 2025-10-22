@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/alkababu18",
   resume:
-    "https://drive.google.com/file/d/1LNe3pr-4_lbqhZfll8TtBMWIBo_LYUdP/view?usp=sharing",
+    "https://drive.google.com/file/d/12pNMBtxKqn612i5dm0j9g06zDevNy7KO/view?usp=sharing",
   linkedin: "www.linkedin.com/in/alka-babu-74b647265",
   twitter: "https://twitter.com/AlkaN",
   insta: "https://www.instagram.com/AlkaN/",
@@ -239,37 +239,39 @@ export const projects = [
     webapp: ""
   },
   {
-    id: 2,
-    title: "Back From Leave Module Customization",
-    date: "",
-    description: [
-      "Engineered a custom Back From Leave module with a multi-level approval workflow (Team Lead → HR Manager → Department Head).",
-      "Integrated automated email notifications and dynamic form fields for capturing return details and supporting documents.",
-      "Developed a status tracking dashboard for pending approvals and implemented automated leave balance reconciliation, reducing manual processing time by 40% and enhancing compliance tracking through digital approval records."
-    ],
-    image:
-      "https://www.images.cybrosys.com/blog/Uploads/BlogImage/leave-management-odoo-v12-2.png",
-    tags: ["Odoo 16", "Python", "Automation", "Email Notifications", "Workflow"],
-    category: "web app",
-    github: "",
-    webapp: ""
-  },
-  {
-    id: 3,
-    title: "Payroll Module Customization",
-    date: "",
-    description: [
-      "Customized the Odoo 16 Payroll module with advanced salary component calculations and configurable allowance/deduction rules.",
-      "Implemented dynamic salary structures handling multiple pay grades, overtime calculations, and tax deductions.",
-      "Engineered a custom PDF generation system using ReportLab for professional salary slip layouts with company branding, including digital signatures, QR codes, and bank transfer details for over 500 employees."
-    ],
-    image:
-      "https://www.images.cybrosys.com/blog/Uploads/BlogImage/manage-payroll-in-odoo-13-12.png",
-    tags: ["Odoo 16", "Python", "ReportLab", "PDF Generation", "Payroll System"],
-    category: "web app",
-    github: "",
-    webapp: ""
-  }
+  id: 2,
+  title: "Employee Separation & Settlement Management System",
+  date: "",
+  description: [
+    "Developed an employee exit management module with a multi-level approval workflow (Manager → HR) supporting three separation types (Resignation/Retirement/Termination).",
+    "Automated relieving date calculation based on notice periods and implemented service duration computation.",
+    "Built an automated financial settlement calculator that extracts salary data from hr.contract, computes leave encashment using gross salary, and calculates notice pay recovery using basic salary.",
+    "Implemented a multi-type loan recovery system (PF/PT/TDS/LOP/Loans) and net settlement computation with flexible payment modes (Full/EMI).",
+    "Integrated a separate gratuity calculator with tiered formulas (21/30 days per year)."
+  ],
+  image:
+    "https://www.images.cybrosys.com/blog/Uploads/BlogImage/how-to-manage-employee-termination-in-odoo-17-26.png",
+  tags: ["Odoo 16", "Python", "HR", "Automation", "Workflow"],
+  category: "web app",
+  github: "",
+  webapp: ""
+},
+{
+  id: 3,
+  title: "Material Request Management System",
+  date: "",
+  description: [
+    "Built an Odoo procurement module with automated approval workflows, intelligent stock availability checking, and automatic Purchase Order generation when inventory is insufficient.",
+    "Developed a wizard-based product assignment and return system with automated stock movements, equipment tracking integration, and employee accountability features.",
+    "Implemented role-based access control for four user types, email notifications with activity scheduling, and cross-module integration with Purchase, Inventory, and Maintenance modules."
+  ],
+  image:
+    "https://i.ytimg.com/vi/o9OeM50ufyg/maxresdefault.jpg",
+  tags: ["Odoo 16", "Python", "Procurement", "Inventory", "Automation"],
+  category: "web app",
+  github: "",
+  webapp: ""
+}
 ];
 
 export const TimeLineData = [
